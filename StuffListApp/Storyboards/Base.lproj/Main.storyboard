@@ -17,8 +17,8 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="appetizer-4" translatesAutoresizingMaskIntoConstraints="NO" id="X3p-XP-8Ks">
-                                <rect key="frame" x="0.0" y="0.0" width="414" height="862"/>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="appetizer-3" translatesAutoresizingMaskIntoConstraints="NO" id="X3p-XP-8Ks">
+                                <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                             </imageView>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WZv-G8-sG1">
                                 <rect key="frame" x="107" y="721" width="200" height="60"/>
@@ -49,7 +49,7 @@
                             <constraint firstItem="X3p-XP-8Ks" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="Jud-ec-hGy"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="WZv-G8-sG1" secondAttribute="bottom" constant="81" id="Tw7-J3-EGF"/>
                             <constraint firstItem="X3p-XP-8Ks" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="rkn-Ji-oHI"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="X3p-XP-8Ks" secondAttribute="bottom" id="vHx-Di-PAc"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="X3p-XP-8Ks" secondAttribute="bottom" constant="-34" id="vHx-Di-PAc"/>
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="TgB-A7-vUs">
@@ -307,7 +307,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="appetizer-4" width="300" height="168"/>
+        <image name="appetizer-3" width="700" height="700"/>
         <image name="appetizer-5" width="183" height="275"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>

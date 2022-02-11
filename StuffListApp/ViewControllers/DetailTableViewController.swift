@@ -73,8 +73,8 @@ class DetailTableViewController: UITableViewController {
         // Add dummy foods
         self.moreFoods.append(["name": "Hot Corn and Cheese Dip", "image": "dessert-1"])
         self.moreFoods.append(["name": "Loaded Baked Potato Dip", "image": "dessert-2"])
-        self.moreFoods.append(["name": "Pepperoni Bread", "image": "dessert-3"])
-        self.moreFoods.append(["name": "Artichoke Spinach Dip", "image": "dessert-4"])
+        self.moreFoods.append(["name": "Pepperoni Bread", "image": "main-2"])
+        self.moreFoods.append(["name": "Artichoke Spinach Dip", "image": "main-1"])
     }
 
     override func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
