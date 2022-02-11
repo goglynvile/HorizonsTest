@@ -1,0 +1,144 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Appetizer",
+      "imageUrl": "header1",
+      "foods": [
+        {
+          "id": 0,
+          "title": "Artichoke and Spinach Dip",
+          "price": 15,
+          "discountedPrice": 12,
+          "description": "Tuscan bread served with a delicious blend of spinach, artichoke, and cream.",
+          "imageUrl": "appetizer-1",
+          "ingredients": [
+            "onion",
+            "garlic",
+            "salt"
+          ],
+          "allergens": [
+            "sesame"
+          ],
+          "star": 2
+        },
+        {
+          "id": 1,
+          "title": "Stuffed Mushrooms",
+          "price": 20,
+          "discountedPrice": 5,
+          "description": "Mushrooms caps baked with a filling of three choice cheeses, breadcrumbs and clams.",
+          "imageUrl": "appetizer-2",
+          "ingredients": [
+            "mushrooms",
+            "cheese",
+            "salt"
+          ],
+          "allergens": [
+            "cheese"
+          ],
+          "star": 1
+        },
+        {
+          "id": 2,
+          "title": "Shrimp Scampi",
+          "price": 36,
+          "discountedPrice": 0,
+          "description": "Jumbo shrimp sauteed in white wine, butter and garlic.",
+          "imageUrl": "appetizer-3",
+          "ingredients": [
+            "onion",
+            "garlic",
+            "salt"
+          ],
+          "allergens": [
+            "sesame"
+          ],
+          "star": 0
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Main Dish",
+      "imageUrl": "header2",
+      "foods": [
+        {
+          "id": 0,
+          "title": "Creamy Tomato Pasta",
+          "price": 15,
+          "discountedPrice": 12,
+          "description": "This isn't the most orthodox pasta recipe, but it is a good one. Simply choose a long pasta – bucatini or spaghetti works well – buy a jar of your favorite tomato sauce (low sugar and no added tomato paste are the most healthy and flavorful), some cream cheese, and you'll have dinner ready in 20 minutes or less.",
+          "imageUrl": "main-1",
+          "ingredients": [
+            "onion",
+            "garlic",
+            "salt"
+          ],
+          "allergens": [
+            "sesame"
+          ],
+          "star": 3
+        },
+        {
+          "id": 1,
+          "title": "Baked Honey Mustard Chicken",
+          "price": 20,
+          "discountedPrice": 5,
+          "description": "If you're not used to using the microwave when cooking, this is a great opportunity to make this appliance your new ally. Make a honey-mustard and onion sauce in the microwave, season your chicken with salt and pepper, cover with the sauce, and bake between 35 and 40 minutes at 375 F.",
+          "imageUrl": "main-2",
+          "ingredients": [
+            "mushrooms",
+            "cheese",
+            "salt"
+          ],
+          "allergens": [
+            "cheese"
+          ],
+          "star": 2
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Dessert",
+      "imageUrl": "header3",
+      "foods": [
+        {
+          "id": 0,
+          "title": "Best Tiramisu",
+          "price": 15,
+          "discountedPrice": 12,
+          "description": "This super-simple Italian dessert actually benefits from being made ahead, allowing all the lovely flavours to mingle",
+          "imageUrl": "dessert-1",
+          "ingredients": [
+            "onion",
+            "garlic",
+            "salt"
+          ],
+          "allergens": [
+            "sesame"
+          ],
+          "star": 1
+        },
+        {
+          "id": 1,
+          "title": "Fruit Salad",
+          "price": 20,
+          "discountedPrice": 5,
+          "description": "Mushrooms caps baked with a filling of three choice cheeses, breadcrumbs and clams.",
+          "imageUrl": "dessert-2",
+          "ingredients": [
+            "mushrooms",
+            "cheese",
+            "salt"
+          ],
+          "allergens": [
+            "cheese"
+          ],
+          "star": 2
+        }
+      ]
+    }
+  ]
+}
